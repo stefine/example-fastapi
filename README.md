@@ -1,1 +1,1 @@
-This is a tutorial made by Youtuber about fastapi/This is a Comprehensive Course for Beginners. This is a tutorial made by Youtuber https://www.youtube.com/watch?v=0sOvCWFmrtA&t=46s about fastapi.
+This is a tutorial made by Youtuber about fastapi/This is a Comprehensive Course for Beginners. This is a tutorial made by Youtuber https://www.youtube.com/watch?v=0sOvCWFmrtA&t=46s about fastapi. This is a very friendly course for beginers. I recommend to everybody.
