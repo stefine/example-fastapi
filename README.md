@@ -1,1 +1,1 @@
-This is a tutorial made by Youtuber about fastapi.
+This is a tutorial made by Youtuber about fastapi/This is a Comprehensive Course for Beginners.
